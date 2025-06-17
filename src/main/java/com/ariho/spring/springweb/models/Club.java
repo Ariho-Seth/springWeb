@@ -31,7 +31,5 @@ public class Club {
     @UpdateTimestamp
     private LocalDateTime updatedOn;
 
-
-
 }
 
